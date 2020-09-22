@@ -3,9 +3,13 @@
 
  1)
    a) Nikita Shetty
+   
    b) ID: 2350802
+   
    c) nshetty@chapman.edu
+   
    d) CPSC 350 - Rene German
+   
    e) Assignment 1- C++ Review
 
  2) DNAStats.h, DNAStats.cpp, main.cpp
@@ -28,8 +32,14 @@
 
  5)
  To run:
+ 
    a) make
+   
    b) ./assignment1.exe DNAinput.txt (or any file name)
+   
       or
+      
    a) g++ *.cpp -o assignment1.out
+   
    b) ./assignment1.out DNAinput.txt (or any file name)
+   
